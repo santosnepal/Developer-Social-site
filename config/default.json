@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://mernadmin:mernadmin@cluster0.ln9zl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"$ecretkey",
+    "githubClientId":"975507844a4fcbe1d55c",
+    "githubSecret":"e37e03dd96cb0a5bd47951fff54826d410505f63"
+}
